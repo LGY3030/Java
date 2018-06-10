@@ -1,4 +1,4 @@
-package ClassDesign;
+package EmaildocumentClassDesign;
 
 import java.util.Scanner;
 

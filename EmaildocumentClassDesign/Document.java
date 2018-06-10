@@ -1,4 +1,4 @@
-package ClassDesign;
+package EmaildocumentClassDesign;
 
 public class Document {
 	private String text;

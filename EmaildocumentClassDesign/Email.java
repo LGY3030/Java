@@ -1,4 +1,4 @@
-package ClassDesign;
+package EmaildocumentClassDesign;
 
 public class Email extends Document{
 	private String sender;
